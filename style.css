@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: chocolate;
+    background: whitesmoke;
   }
   /*--- navigation bar ---*/
   .navbar {
@@ -22,6 +22,13 @@ body {
     justify-content: flex-end;
   }
 
-  
+  .header {
+    background-image: url("DSC_8911.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+
+
 
   
